@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/salesforce.gif" width="60%">
+  <img src="./assets/salesforce-cody.gif" width="60%">
   <br><br>
  </p>
 <div style="display: inline_block"><br>
