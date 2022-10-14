@@ -22,7 +22,7 @@
   		<img align="center" alt="Unreal" height="70" width="90" src="./assets/unreal-1.svg">
   		<img align="center" alt="Unity" height="70" width="90" src="./assets/unity-technologies-logo.svg">
 		<img align="center" alt="MySQL" height="70" width="90" src="./assets/mysql-3.svg">
-  		<img align="center" alt="PHP" height="70" width="90" src="./assets/php-1.svg">
+  		<img align="center" alt="PHP" height="60" width="80" src="./assets/php-1.svg">
 		
 </p>
 </div><br><br>
