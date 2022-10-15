@@ -1,11 +1,20 @@
 <img align="center" alt="C#"  src="./assets/header.png"/>
 <img align="center" alt="C#"  src="./assets/body.PNG"/>
-<img align="center" alt="C#"  src="./assets/metting.PNG"/>
-
+<a href="https://calendly.com/anmol098/30min" target="_blank">
+	<img align="center" alt="C#"  src="./assets/metting.PNG"/>
+</a>
 <div style="display: inline_block">
-<img align="center" alt="C#"  width="33%" src="./assets/footer1.PNG"/>
-<img align="center" alt="C#"   width="33%" src="./assets/footer2.PNG"/>
-<img align="center" alt="C#"  width="33%" src="./assets/footer3.PNG"/>
+	<a href="https://www.linkedin.com/in/ismael-chargui-0506b4161" target="_blank">
+		<img align="center" alt="C#"  width="33%" src="./assets/footer1.PNG"/>
+	</a>
+	
+	<a href="https://trailblazer.me/id/ismaelic" target="_blank">
+		<img align="center" alt="C#"  width="33%" src="./assets/footer2.PNG"/>
+	</a>
+	
+	<a href="https://github.com/ismaelic" target="_blank">
+		<img align="center" alt="C#"  width="33%" src="./assets/footer3.PNG"/>
+	</a>
 </div>
 
 
