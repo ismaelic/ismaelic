@@ -1,10 +1,12 @@
 <img align="center" alt="C#"  src="./assets/header.png"/>
 <img align="center" alt="C#"  src="./assets/body.PNG"/>
-<img align="center" alt="C#"  src="./assets/meeting.png"/>
-<img align="center" alt="C#" src="./assets/footer1.PNG"/>
-<img align="center" alt="C#"  src="./assets/footer2.PNG"/>
-<img align="center" alt="C#" src="./assets/footer3.PNG"/>
+<img align="center" alt="C#"  src="./assets/metting.PNG"/>
 
+<div style="display: inline_block">
+<img align="center" alt="C#"  width="33%" src="./assets/footer1.PNG"/>
+<img align="center" alt="C#"   width="33%" src="./assets/footer2.PNG"/>
+<img align="center" alt="C#"  width="33%" src="./assets/footer3.PNG"/>
+</div>
 
 
 
