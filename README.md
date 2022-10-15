@@ -18,7 +18,7 @@
 
 <div style="display: inline_block"><br>
 	<p align="center">
-    	<font size="3" face="Courier New"><b>Tecnologías con las que trabajo o he trabajado: </b></font><br><br> 
+    	  <img align="center" alt="C#" src="./assets/Text1.PNG"/> <br><br> 
 		<img align="center" alt="C#" height="70" width="90" src="./assets/c--4.svg"/>
   		<img align="center" alt="Java" height="70" width="90" src="./assets/java-4.svg"/>
 		<img align="center" alt="Kotlin" height="70" width="80" src="./assets/kotlin-1.svg"/>
@@ -28,7 +28,7 @@
   		<img align="center" alt="JavaScript" height="70" width="80" src="./assets/javascript-1.svg"/>
 		<img align="center" alt="Python" height="70" width="80" src="./assets/python-5.svg"/>
   		<br><br><br>
-        <font size="3" face="Courier New"><b>Tecnologías que estoy explorando: </b></font></br>
+            	  <img align="center" alt="C#" src="./assets/Text2.PNG"/> </br>
   		<img align="center" alt="Unreal" height="70" width="90" src="./assets/unreal-1.svg">
   		<img align="center" alt="Unity" height="70" width="90" src="./assets/unity-technologies-logo.svg">
 		<img align="center" alt="MySQL" height="70" width="90" src="./assets/mysql-3.svg">
@@ -36,7 +36,5 @@
 		
 </p>
 </div><br>
+ <img align="center" alt="C#" src="./assets/profileviews.PNG"/> </br>
 
- <p align="center">
-	<img src="https://komarev.com/ghpvc/?username=marianavns" alt="ismaelic" width="200"  height="40" />
-</p>
