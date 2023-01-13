@@ -35,4 +35,3 @@
 		<img align="center" alt="PHP" height="60" width="80" src="./assets/php-1.svg">
 	</p>
 </div>
- <img align="center" alt="C#" src="./assets/profileviews.PNG"/> </br>
