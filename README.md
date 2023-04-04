@@ -1,8 +1,5 @@
 ![es](https://user-images.githubusercontent.com/115421396/196023934-aa9ac666-008d-42e6-876a-d76b396cbbd3.PNG)
 <img align="center" alt="C#"  src="./assets/body.PNG"/>
-<a href="https://calendly.com/ismaelic/30min" target="_blank">
-![image](https://user-images.githubusercontent.com/115421396/196026144-f10d5a72-bcd1-4408-a4d0-462618400740.png)
-</a>
 <div style="display: inline_block">
 	<a href="www.linkedin.com/in/ismaelic" target="_blank">
 		<img align="center" alt="C#"  width="33%" src="./assets/footer1.PNG"/>
