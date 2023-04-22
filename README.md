@@ -7,8 +7,8 @@
 	<a href="https://trailblazer.me/id/ismaelic" target="_blank">
 		<img align="center" alt="C#"  width="33%" src="./assets/footer2.PNG"/>
 	</a>
-	<a href="https://www.linkedin.com/in/ismaelic/" target="_blank">
-		<img align="center" alt="C#"  width="33%" src="./assets/footer3.PNG"/>
+	<a href="www.linkedin.com/in/ismaelic" target="_blank">
+		<img align="center" alt="C#"  width="30%" src="./assets/footer3.PNG"/>
 	</a>
 </div>
 <div style="display: inline_block"><br>
